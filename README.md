@@ -5,6 +5,8 @@ This is a poor Decompile. All the materials arnt baked and it looks horrible. Bu
 
 [Play original game (On VR)](https://www.meta.com/experiences/monkey-runners/5716640435116350/?srsltid=AfmBOooGVVvvnxeUbGfNstFQofddj8bgxGHz5IK2ERcvFtDdxriJ_UHe)
 
+[Play This!](https://sillymonkeyflip.github.io/Monkey-Runners-WebGL/)
+
 ## Information
 - Decompile and Compile from me!
 - Nothing works because i dont feel like fixing scripts (Maybe in the future)
