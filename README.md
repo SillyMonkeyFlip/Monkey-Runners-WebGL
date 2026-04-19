@@ -14,3 +14,6 @@ This is a poor Decompile. All the materials arnt baked and it looks horrible. Bu
 ## Credits
 - SillyMonkeyFlip - Compiler & Decompiler
 - Shark VR - Creator of Monkey Runners
+
+## Media
+![Alt Text](Gifs/preview.gif)
